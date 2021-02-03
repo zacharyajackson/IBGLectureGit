@@ -3,14 +3,11 @@ Playing around with Git.
 
 Test commit
 
-My name is Zachary Jackson
+Connected to Zack
 
-
-
-
-My birthday is February 7th 
-My name is Hakon Harstrup my birthday is September 22
-My name is Trevor Downs
-My birthday is February 26th.
-
-My name is Zakhary Oliver  
+6
+5
+4
+3
+2
+1
