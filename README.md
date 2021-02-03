@@ -13,9 +13,7 @@ I like to read.
 
 
 
-My name is Brianna
 
-My Birthday is May 19th 
 =======
 
 My birthday is February 7th 
@@ -31,3 +29,10 @@ My name is Zakhary Oliver
 
 
 >>>>>>> 9b5f60edf5c1a36dd9aa719913d382ad0b0182f2
+
+
+
+
+My name is Brianna
+
+My Birthday is May 19th 
