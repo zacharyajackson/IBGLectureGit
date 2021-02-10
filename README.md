@@ -2,7 +2,7 @@
 Starting Over
 
 Trying to share branch with Zak
-
+This is Seyi's commit line
 <<<<<<< HEAD
 <<<<<<< HEAD
 Connected to Zack
